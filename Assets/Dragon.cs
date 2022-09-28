@@ -18,7 +18,7 @@ public class Dragon : Enemy
         print("Dragon is looking at player");
     }
 
-    // Update is called once per frame
+
     void Update()
     {
         LookAtPlayer();
